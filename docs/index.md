@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Rendón Jiménez Gustavo
+- **Correo**: gustav_arch@outloook.com
