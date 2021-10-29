@@ -5,4 +5,4 @@ Es un Sistema de Control de Versiones (VCS) diseñado por Linus Torvalds, mismo 
 
 Otros VCS:
 
-![InvestigacionInicialIMG1](resources/archivos/individual/actividad00-inicio/InvestigacionInicialIMG1)
+![IMG1](/archivos/individual/actividad00-inicio/InvestigacionInicialIMG1.png)
