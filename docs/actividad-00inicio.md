@@ -6,3 +6,7 @@ Es un Sistema de Control de Versiones (VCS) diseñado por Linus Torvalds, mismo 
 Otros VCS:
 
 ![IMG1](https://git-scm.com/book/en/v2/images/deltas.png)
+
+Git:
+
+![IMG2](https://git-scm.com/book/en/v2/images/snapshots.png)
